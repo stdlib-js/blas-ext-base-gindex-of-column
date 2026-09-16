@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-15)
+## Unreleased (2026-09-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`511174e`](https://github.com/stdlib-js/stdlib/commit/511174ed95700f1db2de5f85236fa64578f7c02e) - **refactor:** add support for enums in `blas/ext/base/*index-of-column` [(#15201)](https://github.com/stdlib-js/stdlib/pull/15201) _(by Kaustubh Patange)_
 -   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
 -   [`2384460`](https://github.com/stdlib-js/stdlib/commit/23844609387e67c18bc0db81a5abcacdce492ffc) - **docs:** propagate recent doc-note and grammar fixes to sibling packages [(#12193)](https://github.com/stdlib-js/stdlib/pull/12193) _(by Philipp Burckhardt)_
 -   [`62019bc`](https://github.com/stdlib-js/stdlib/commit/62019bc2c7d48c306c0febf889b6eecccc8858f3) - **test:** rename fixture folders to follow project conventions _(by Athan Reines)_
@@ -37,9 +38,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kaustubh Patange
 -   Muhammad Haris
 -   Philipp Burckhardt
 
