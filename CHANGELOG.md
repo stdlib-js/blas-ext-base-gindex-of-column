@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0ee3933`](https://github.com/stdlib-js/stdlib/commit/0ee3933432578899483151dd85a35fc7f4f0e5f9) - **chore:** clean-up [(#15652)](https://github.com/stdlib-js/stdlib/pull/15652) _(by Philipp Burckhardt)_
 -   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`511174e`](https://github.com/stdlib-js/stdlib/commit/511174ed95700f1db2de5f85236fa64578f7c02e) - **refactor:** add support for enums in `blas/ext/base/*index-of-column` [(#15201)](https://github.com/stdlib-js/stdlib/pull/15201) _(by Kaustubh Patange)_
 -   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
